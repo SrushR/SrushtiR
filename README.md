@@ -1,131 +1,98 @@
-<h1 align="center">Hi 👋, I'm srushti reddy</h1>
-<h3 align="center">Computer Engineering Student | Java Developer | Problem Solver</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Srushti%20Reddy&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=65" width="100%"/>
+
+[
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+React;Building+offline-first+payment+systems;Currently+exploring+Node.js)
+
+](https://git.io/typing-svg)
+
+
+
+![Location](https://img.shields.io/badge/📍_Pune,_India-1f2937?style=for-the-badge)
+
+
+
+
+![Status](https://img.shields.io/badge/Open_to_Work-22c55e?style=for-the-badge)
+
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/srushti-reddy-036553248)
+[
+
+![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:srushtireddy2020@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+### ✨ About Me
 
-- 🎓 Computer Engineering Student (Batch 2026)
-- 💡 Strong foundation in Object-Oriented Programming
-- 💻 Passionate about Java Development & DSA
-- 🔍 Actively solving problems on LeetCode
-- 🌱 Currently improving system design & backend development
-- 🎯 Looking for Software Engineering Internship and Job opportunities
+I'm a IT engineer from SPPU who loves turning real problems into end-to-end products, from database design to a clean UI. I'm especially drawn to projects where reliability matters: low connectivity, sensitive data, and tricky edge cases.
 
----
-## 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+- 🔭 Building: offline-first payments and health tech
+- 🌱 Learning: Node.js
+- 💼 Experience: Web Developer Intern @ Elite Software
+- ⚡ Fun fact: my payment retry logic cut failures by ~40%
 
 ---
 
-## ⚙️ Backend & APIs
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 🛠️ Tech Stack
+
+<div align="center">
+
+
+
+![Java](https://skillicons.dev/icons?i=java,spring,react,js,html,css,firebase,nodejs,git,github,py&perline=11)
+
+
+
+</div>
+
+**Database:** Oracle SQL · Firebase Realtime DB
 
 ---
 
-## 🗄️ Database & ORM
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 💸 **UPI Without Internet** | Offline payments over SMS/USSD for 100+ users, with a retry state machine and cloud sync on reconnect | Java · Spring Boot · React · Firebase |
+| 🏥 **HealthVault** | Health records with role-based access, appointment booking, and a QR vCard for emergency lookup in under 5 seconds | HTML · CSS · JS · Firebase |
+| 🤝 **Owe You One** | Shared expense tracker with a settlement algorithm that minimizes transactions | HTML · CSS · JS |
 
 ---
 
-## 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 📊 GitHub Stats
+
+<div align="center">
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SrushR&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrushR&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+</div>
 
 ---
 
-## 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white);
+<div align="center">
 
----
+💬 *Let's build something great together!*
 
-## 📚 Core Skills
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
-- Data Structures & Algorithms  
-- OOP Concepts  
-- Multithreading & Synchronization  
-- Spring Boot Application Development  
-- RESTful API Development  
-- Database Integration (MySQL)  
-- Exception Handling & Clean Code Practices  
-
----
-
-## 💻 Projects
-
-### 🚀 AI Code Reviewer (Spring Boot + Gemini API)
-
-An AI-powered full-stack application that analyzes code for bugs, security issues, performance problems, and improvements.
-
-**Key Features:**
-- 🔍 Detects bugs and edge cases  
-- 🔐 Identifies security vulnerabilities  
-- ⚡ Highlights performance issues  
-- 🧠 Provides structured feedback (Summary, Bugs, Security, Performance, Improvements, Rating)  
-- 🕘 Stores review history using Hibernate JPA  
-- 🖥️ Monaco-based interactive code editor  
-
-**Tech Stack:**  
-Java, Spring Boot, Hibernate JPA, MySQL, REST API, Gemini API, JavaScript  
-
-🔗 GitHub Repository: https://github.com/DivyaSonawane1/code_Reviewer  
-
----
-
-### 🏦 Banking System (Spring Boot + Java + REST API)
-
-A backend banking application built using Spring Boot, implementing real-world banking operations through RESTful APIs.
-
-**Key Features:**
-- Account creation and management  
-- Deposit and withdrawal transactions  
-- Fund transfer between accounts  
-- Transaction history tracking  
-- Exception handling and validation  
-- Layered architecture (Controller – Service – Repository)  
-
-**Tech Stack:**  
-Spring Boot, Java, REST API, MySQL, JPA/Hibernate, Postman  
-
-🔗 GitHub Repository: https://github.com/DivyaSonawane1/Banking_System_SpringBoot_And_RestAPI  
-
----
-
-### 🏦 Concurrent Banking System (Java)
-
-Implemented real-world banking operations using object-oriented programming, multithreading, and synchronization.
-
----
-
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/srushti-reddy/
-- 📧 Email: srushtireddy2020@gmail.com
-
-<br>
-
-### 📊 DSA Practice & Algorithm Implementation
-
-Regular practice of data structures and algorithms focusing on optimization and problem-solving.
-
-<br>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Divya-Sonawane?theme=dark&font=Baloo)
-
-
----
-
-⭐ Always learning, always building.
+</div>
