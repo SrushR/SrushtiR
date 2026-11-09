@@ -1,98 +1,73 @@
-<div align="center">
+# Srushti Reddy
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Srushti%20Reddy&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=65" width="100%"/>
+**Full Stack Developer** | Pune, India
 
-[
+Information Technology graduate (B.E., SPPU, 2026) building end-to-end web applications with Java, Spring Boot, React, and Firebase. I focus on reliable systems: handling low connectivity, protecting sensitive data, and designing for edge cases.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+React;Building+offline-first+payment+systems;Currently+exploring+Node.js)
-
-](https://git.io/typing-svg)
-
-
-
-![Location](https://img.shields.io/badge/📍_Pune,_India-1f2937?style=for-the-badge)
-
-
-
-
-![Status](https://img.shields.io/badge/Open_to_Work-22c55e?style=for-the-badge)
-
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/srushti-reddy-036553248)
-[
-
-![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:srushtireddy2020@gmail.com)
-
-</div>
+[LinkedIn](https://linkedin.com/in/srushti-reddy-036553248) · [Email](mailto:srushtireddy2020@gmail.com)
 
 ---
 
-### ✨ About Me
+## Technical Skills
 
-I'm a IT engineer from SPPU who loves turning real problems into end-to-end products, from database design to a clean UI. I'm especially drawn to projects where reliability matters: low connectivity, sensitive data, and tricky edge cases.
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-- 🔭 Building: offline-first payments and health tech
-- 🌱 Learning: Node.js
-- 💼 Experience: Web Developer Intern @ Elite Software
-- ⚡ Fun fact: my payment retry logic cut failures by ~40%
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=firebase" />
 
 
-![Java](https://skillicons.dev/icons?i=java,spring,react,js,html,css,firebase,nodejs,git,github,py&perline=11)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 
 
-</div>
-
-**Database:** Oracle SQL · Firebase Realtime DB
+**Tools & Other**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,py" />
 
 ---
 
-### 🚀 Featured Projects
+## Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 💸 **UPI Without Internet** | Offline payments over SMS/USSD for 100+ users, with a retry state machine and cloud sync on reconnect | Java · Spring Boot · React · Firebase |
-| 🏥 **HealthVault** | Health records with role-based access, appointment booking, and a QR vCard for emergency lookup in under 5 seconds | HTML · CSS · JS · Firebase |
-| 🤝 **Owe You One** | Shared expense tracker with a settlement algorithm that minimizes transactions | HTML · CSS · JS |
+### UPI Without Internet
+Offline payment system using SMS/USSD.
+- Enables secure transactions for 100+ users without internet
+- Transaction state machine (pending, success, failed) with retry logic, reducing failures by ~40%
+- Firebase sync on reconnect
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,react,firebase" height="30" />
 
-### 📊 GitHub Stats
+### HealthVault
+Health record management system.
+- Role-based access control for patients, doctors, and admins
+- Appointment booking and QR-based vCard for emergency access in under 5 seconds
+- Firebase security rules enforcing read/write permissions
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase" height="30" />
 
+### Owe You One
+Shared expense tracker for roommates.
+- Tracks expenses across categories and manages balances
+- Settlement algorithm that minimizes the number of transactions
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SrushR&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrushR&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="30" />
 
 ---
 
-<div align="center">
+## Experience
 
-💬 *Let's build something great together!*
+**Web Developer Intern**, Elite Software (Nov 2024 – Jan 2025)
+Built backend modules with Spring Boot, integrated REST APIs with a React frontend, and resolved 20+ bugs.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+**Java Full Stack Trainee**, QSpiders (Oct 2025 – 2026)
 
-</div>
+---
+
+## Currently
+Open to Java Full Stack and Web Developer roles. Learning Node.js and continuing to build projects.
